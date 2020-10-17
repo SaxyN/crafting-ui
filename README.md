@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to Open/Run the crafting UI
+
+1. Clone the Repo
+2. Run 'npm install' inside of the directory
+3. Run 'npm start'
+
 ## Available Scripts
 
 In the project directory, you can run:
